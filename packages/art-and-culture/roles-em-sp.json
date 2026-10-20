@@ -15,9 +15,7 @@
       "url": "https://rolesemsp.com.br/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "catalogue:read"
-        ]
+        "scopes": ["catalogue:read"]
       }
     }
   ]
